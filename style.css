@@ -1,4 +1,55 @@
 
-img {
-    width: 20em;
+   body {
+       text-align: center;
+   }
+
+
+    h1 {
+        font-family: serenity, sans-serif;
+        font-weight: 500;
+        font-style: normal;
+        text-align: center;
+        font-size: 2.5em;
+       
+        
     }
+
+    h2 {
+        font-family: serenity, sans-serif;
+        font-weight: 900;
+        font-style: normal;
+        font-size: 5em;
+        margin-bottom: -1.4em;
+        margin-top: .7em;
+    }
+    
+    p {
+        font-family: ff-tisa-sans-web-pro, sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 1.2em;
+        padding: 6em;
+        margin-bottom: -3em;
+    }
+
+    a {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        flex-direction: column;
+        font-family: ff-tisa-sans-web-pro, sans-serif;
+        font-weight: 700;
+        font-style: normal;
+        font-size: 1.2em;
+        color: black;
+        padding: 2em;
+        align-items: center;
+        justify-content: center;
+        color: black;
+        margin: 2em;
+        background-color: Thistle;
+        border-radius: 5em;
+        
+    }
+    
+    
