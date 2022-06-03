@@ -2,6 +2,10 @@
    body {
        text-align: center;
    }
+   img {
+       width: 20%;
+       height: 20%;
+   }
 
     h1 {
         font-family: serenity, sans-serif;
@@ -27,6 +31,7 @@
         font-size: 1.2em;
         margin: 18em;
         margin-bottom: 5em;
+        float: center;
     }
 
     a {
@@ -44,7 +49,7 @@
         justify-content: center;
         color: black;
         margin: 3em;
-        background-color: Thistle;
+        background-color: #CEC8EF;
         border-radius: 5em;
         
     }
