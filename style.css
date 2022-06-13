@@ -21,20 +21,20 @@
         font-weight: 900;
         font-style: normal;
         font-size: 5em;
-        margin-bottom: -3.5em;
-        margin-top: .7em;
+        margin-bottom: -2.5em;
+        margin-top: .1em;
     }
     
     p {
         font-family: ff-tisa-sans-web-pro, sans-serif;
         font-weight: 400;
         font-style: normal;
-        font-size: 1em;
+        font-size: .8em;
         margin-top: 18em;
         margin-bottom: 5em;
-        margin-left: 35%;
-        max-width: 30%;
-        max-height: 30%;
+        margin-left: 20%;
+        max-width: 60%;
+        max-height: 60%;
     }
 
     a {
