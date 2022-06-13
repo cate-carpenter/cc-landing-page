@@ -30,10 +30,12 @@
         font-weight: 400;
         font-style: normal;
         font-size: 1em;
+        text-align: left;
+        justify-content: center;
         margin-top: 18em;
         margin-bottom: 5em;
-        margin-left: 14%;
-        max-width: 70%;
+        margin-left: 15%;
+        max-width: 75%;
         max-height: 60%;
     }
 
