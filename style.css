@@ -37,9 +37,6 @@
         margin-right: 4em;
         max-width: 85%;
     }
-     nav {
-box-shadow: 10px 5px 5px black;
-     }
 
     a {
         display: flex;
@@ -52,6 +49,7 @@ box-shadow: 10px 5px 5px black;
         font-style: normal;
         font-size: 1.2em;
         color: black;
+        box-shadow: 10px 5px 5px #450071;
         padding: 2em;
         align-items: center;
         justify-content: center;
